@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/zTuteBots/.github/refs/heads/main/e_ab2374b3c2da36efc1c44d7fef7c03e6.jpeg" width="1810" heigh="630">
+<img src="http://212.192.28.35:25913/cdn/T77obth.png" width="1810" heigh="630">
 
 ## Equipo de programadores zTute
 
